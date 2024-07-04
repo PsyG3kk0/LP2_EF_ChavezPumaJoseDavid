@@ -1,5 +1,11 @@
 package com.example.demo.repository;
 
-public interface ProductoRepository {
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+import com.example.demo.entity.ProductoEntity;
+
+@Repository
+public interface ProductoRepository  extends JpaRepository<ProductoEntity, Integer>{
 
 }
