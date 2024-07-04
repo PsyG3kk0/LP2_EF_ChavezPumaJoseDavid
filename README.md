@@ -10,7 +10,8 @@ PRESENTACION DE REGISTRO
 
 PRESENTACION DE MENU
 
-![image](https://github.com/PsyG3kk0/LP2_EF_ChavezPumaJoseDavid/assets/171426737/ee4d7362-855b-47bb-a559-83cb6c736a9f)
+![image](https://github.com/PsyG3kk0/LP2_EF_ChavezPumaJoseDavid/assets/171426737/51cb7706-5e2a-49c5-807a-1126abe6d9ee)
+
 
 (agrege un boton para agregar Categorias)
 
@@ -24,7 +25,8 @@ PRESENTACION DE EDITAR
 
 PRESENTACION AL BUSCAR 
 
-![image](https://github.com/PsyG3kk0/LP2_EF_ChavezPumaJoseDavid/assets/171426737/bd637a46-78f5-4762-b02a-59b6a73dcb28)
+![image](https://github.com/PsyG3kk0/LP2_EF_ChavezPumaJoseDavid/assets/171426737/441494c3-e286-4161-aed5-7f2f765923e5)
+
 
 PRESENTACION DE PDF
 
