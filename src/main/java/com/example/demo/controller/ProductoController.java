@@ -55,6 +55,7 @@ public class ProductoController {
 
         String correoUsuario = (String) session.getAttribute("usuario");
         UsuarioEntity usuario = usuarioService.buscarUsuarioPorCorreo(correoUsuario);
+        model.addAttribute("foto", usuario.getUrlImagen());
         model.addAttribute("nombre_usuario", usuario.getNombre());
 
         return "menu";
@@ -155,6 +156,7 @@ public class ProductoController {
         List<ProductoEntity> productos;
         String correoUsuario = (String) session.getAttribute("usuario");
         UsuarioEntity usuario = usuarioService.buscarUsuarioPorCorreo(correoUsuario);
+        model.addAttribute("foto", usuario.getUrlImagen());
         model.addAttribute("nombre_usuario", usuario.getNombre());
 
         if (idProducto == null) {
