@@ -6,7 +6,7 @@ import java.util.List;
 public interface ProductoService {
 
 	List<ProductoEntity> findAllProductos();
-	
+
 	ProductoEntity findProductoById(Integer id);
 
 	ProductoEntity saveProducto(ProductoEntity producto);

@@ -3,13 +3,14 @@ package com.example.demo.service.impl;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 import com.example.demo.entity.CategoriaEntity;
 import com.example.demo.repository.CategoriaRepository;
 import com.example.demo.service.CategoriaService;
+@Service
+public class CategoriaServiceImpl implements CategoriaService {
 
-public class CategoriaServiceImpl implements CategoriaService{
-	
 	@Autowired
 	private CategoriaRepository categoriaRepository;
 
@@ -30,8 +31,8 @@ public class CategoriaServiceImpl implements CategoriaService{
 
 	@Override
 	public void deleteCategoria(Integer id) {
-		 categoriaRepository.deleteById(id);
-		
+		categoriaRepository.deleteById(id);
+
 	}
 
 }
