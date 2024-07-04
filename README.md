@@ -5,7 +5,8 @@ PRESENTACION DE LOGIN
 
 PRESENTACION DE REGISTRO
 
-![image](https://github.com/PsyG3kk0/LP2_EF_ChavezPumaJoseDavid/assets/171426737/abc6ea38-1c14-4417-8743-0984fed4b29e)
+![image](https://github.com/PsyG3kk0/LP2_EF_ChavezPumaJoseDavid/assets/171426737/30e0edbc-b18e-4224-99e9-70f9818c98cd)
+
 
 PRESENTACION DE MENU
 
